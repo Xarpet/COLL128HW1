@@ -1,0 +1,2 @@
+I'm using WSL2 so the memory is limited to half my actual memory size.
+
